@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .form-label {
+    @apply font-bold text-lg leading-9 cursor-pointer ;
+  }
+
+  .font-small {
+    @apply font-medium text-sm leading-9 cursor-pointer text-lime-800 opacity-60;
+  }
+
+  .form-input {
+    @apply inline-flex items-center justify-center text-lg font-medium leading-9 pl-3 
+    rounded-lg border-solid hover:border-dotted border-2 border-gray-300
+    placeholder:italic placeholder:text-gray-300 placeholder:text-sm;
+  }
+  
+  .submit-button {
+    @apply mt-3 bg-violet-700 hover:bg-violet-500 w-full py-1 rounded shadow-lg text-white text-center;
+  }
+
+  .icon-input{
+    @apply absolute inset-y-1 right-0 pr-3 flex items-center text-sm leading-5;
+  }
+
+  .input-field {
+    @apply ring-0 bg-transparent border-transparent focus:ring-0 focus:border-transparent focus:bg-transparent
+  }
+}
+
