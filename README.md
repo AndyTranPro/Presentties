@@ -1,6 +1,6 @@
 # Presto
 
-1. Background & Motivation
+1. Background
 2. Running the application
 
 ## 1. Background
