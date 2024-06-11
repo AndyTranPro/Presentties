@@ -1,8 +1,7 @@
 # Presto
 
 1. Background & Motivation
-2. The Task (Frontend)
-3. The Support (Backend)
+2. Running the application
 
 ## 1. Background
 
