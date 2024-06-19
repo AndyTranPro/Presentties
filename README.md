@@ -5,7 +5,7 @@
 
 ## 1. Background
 
-An alternative to [slides.com](https://slides.com) that is a lean, lightweight app that is a lot more enjoyable and interesting to use* and that will *revolutionise the presentations industry for decades to come*. This product was made in the form of a web-based application, and called this quiz application 🪄🪄🪄**Presto**🪄🪄🪄.
+An alternative to [slides.com](https://slides.com) that is a lean, lightweight app that is a lot more enjoyable and interesting to use* and that will *revolutionise the presentations industry for decades to come*. This product was made in the form of a web-based application, and called this presentation-making application 🪄🪄🪄**Presto**🪄🪄🪄.
 
 This application is built in `ReactJS`, a declarative framework for building single page applications.
 
